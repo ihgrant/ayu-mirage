@@ -1,0 +1,22 @@
+{
+  "name": "ayu-mirage",
+  "version": "1.0.0",
+  "description": "A theme for the Hyper terminal emulator.",
+  "main": "ayu-mirage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihgrant/ayu-mirage.git"
+  },
+  "keywords": [
+    "hyper"
+  ],
+  "author": "ian@chenghiz.net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ihgrant/ayu-mirage/issues"
+  },
+  "homepage": "https://github.com/ihgrant/ayu-mirage#readme"
+}
